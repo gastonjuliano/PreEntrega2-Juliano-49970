@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Monito",
+        "description": "Un monito muy bonito",
+        "img": "/drag/imgfondoautor.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ciruela",
+        "description": "Una ciruela muy rica",
+        "img": "/drag/libro.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dragoncito",
+        "description": "Una ciruela muy rica 2",
+        "img": "/drag/imginicio.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Libro del Dragoncito",
+        "description": "Una ciruela muy rica 3",
+        "img": "/drag/libro2.jpg"
+    }
+]
